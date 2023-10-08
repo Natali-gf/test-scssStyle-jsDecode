@@ -1,0 +1,1 @@
+decode function in 'index.js'-file
